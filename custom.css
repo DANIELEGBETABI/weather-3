@@ -4,3 +4,12 @@ body{
 .weather-icon{
     font-size: 300%;
 }
+.forecast-container{
+    text-align: center;
+}
+.forecast-body{
+    margin-bottom: 10px;
+}
+.forecast-container .col-md-1{
+    padding:0px;
+}
